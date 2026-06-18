@@ -12,3 +12,4 @@
     Local storage for cookies.<br>
     The file extension must be .txt and the cookie must be in <b>Netscape format.</b>
 </p>
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2Fhttps://github.com/rajayns42-design/AnonXMusicE%2FAnonXMusic)
