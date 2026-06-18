@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: aisha-music-bot
+    runtime: python
+    buildCommand: "pip install ."
+    startCommand: "python3 -m anony"
+    plan: free
+    envVars:
+      - key: API_ID
+        sync: false
+      - key: API_HASH
+        sync: false
+      - key: BOT_TOKEN
+        sync: false
+      - key: LOGGER_ID
+        sync: false
+      - key: MONGO_URL
+        sync: false
+      - key: OWNER_ID
+        sync: false
+      - key: SESSION
+        sync: false
